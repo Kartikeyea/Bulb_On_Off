@@ -1,0 +1,16 @@
+body{
+  background-color: oldlace;
+}
+.container{
+  text-align: center;
+}
+#on{
+  background-color: greenyellow;
+  font-size: large;
+  font-weight: bold;
+}
+#off{
+  background-color: red;
+  font-size: large;
+  font-weight: bold;
+}
